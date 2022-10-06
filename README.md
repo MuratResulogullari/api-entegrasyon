@@ -1,2 +1,4 @@
-# -Terandyol-Api-Entegrasyon
-pazaryeri api entegrasyonu
+# -Marketplace integration
+Trendyol integration
+Hepsiburada integration
+Epttavm integration
